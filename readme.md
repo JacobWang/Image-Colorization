@@ -11,6 +11,7 @@ Project Overview This project explores various deep-learning models for image co
 Requirement:
 
 - Make sure all the needed dependency is downloaded in the environment, if not simply doying it by "pip install __" or if it is virtual environment set up by conda install it by "conda install _". GPU is highly recommend by not mandatory.
+- Dataset and Model weights can be found in this google drive link: https://drive.google.com/drive/folders/1EeCMcJgZ7ESCdUOkuglTKvkRujF4dMrv
 
 Dataset:
 
