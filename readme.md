@@ -53,7 +53,7 @@ The following table summarizes the performance of each model based on various me
 
 
 
-![gan-image](/Users/wangzhengqi/Downloads/gan-image.png)
+![image](https://github.com/JacobWang/Image-Colorization/assets/126121682/aed0f036-4d04-4396-b678-b47b94eda08d)
 
 License: 
 
